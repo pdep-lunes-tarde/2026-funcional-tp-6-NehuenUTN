@@ -11,8 +11,8 @@
 
 ## Nombre y legajo
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **212.945-0** 
+- Nombre: **Nehuen Andre Bergamin Paszkaniak**
 
 ## El enunciado
 
